@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nayanecodes
 - 👀 I’m interested in front end development 
-- 🌱 Javascript
 - 📫 nayanecodes@gmail.com
 
 <!---
