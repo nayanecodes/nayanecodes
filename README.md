@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nayanecodes
-- 👀 I’m interested in front end development 
+- 👋 Oi, Eu sou @nayanecodes
+- 👀 Tenho interesse em desenvolvimento front end
 - 📫 nayanecodes@gmail.com
 
 <!---
