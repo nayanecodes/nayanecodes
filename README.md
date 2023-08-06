@@ -1,5 +1,5 @@
-- 👋 Oi, eu sou @nayanecodes
-- 👀 Tenho interesse em desenvolvimento front end
+- 👋 Hi i'm Nay and I love front end development
+- 👀 Interests: html/css, javascript, react, bootstrap
 - 📫 nayanecodes@gmail.com
 
 <!---
