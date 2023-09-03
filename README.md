@@ -1,15 +1,15 @@
 Hi i'm Nay and I love programming 
-
-Interests: front end development with
-HTML
-CSS, SASS e LESS
-JavaScript
-Nodejs
-Reactjs
-Vuejs
-Gulp
-Grunt
-           
+<br><br>
+Interests: front end development with<br><br>
+HTML<br>
+CSS, SASS e LESS<br>
+JavaScript<br>
+Nodejs<br>
+Reactjs<br>
+Vuejs<br>
+Gulp<br>
+Grunt<br>
+<br><br>
 nayanecodes@gmail.com
 
 <!---
